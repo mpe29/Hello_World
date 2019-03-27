@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Copyright 2009-2017 BHG http://bw.org/
-# lets see if I can make this arrive in GitHUb safely
+# let us see if I can make this arrive in GitHUb safely
 # this is also a poopies test duh
 
 class Animal:
